@@ -1,4 +1,4 @@
-# Drosy-Driving-Detection
+# Drowsy-Driving-Detection
 ## ML Course Final Project
 
 ## Description
